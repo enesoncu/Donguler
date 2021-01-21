@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{47C74BCA-E1E8-4CA6-81B0-06F9BDA22FF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{F24D9609-5DC9-41E1-B9E9-FF361A6803C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47C74BCA-E1E8-4CA6-81B0-06F9BDA22FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C74BCA-E1E8-4CA6-81B0-06F9BDA22FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C74BCA-E1E8-4CA6-81B0-06F9BDA22FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C74BCA-E1E8-4CA6-81B0-06F9BDA22FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F24D9609-5DC9-41E1-B9E9-FF361A6803C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24D9609-5DC9-41E1-B9E9-FF361A6803C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24D9609-5DC9-41E1-B9E9-FF361A6803C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24D9609-5DC9-41E1-B9E9-FF361A6803C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {554A5512-D047-4793-97EC-AE66549C9BBA}
+	EndGlobalSection
+EndGlobal
